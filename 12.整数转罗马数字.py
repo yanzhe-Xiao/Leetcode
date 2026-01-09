@@ -34,5 +34,7 @@ class Solution:
             ss,li,num = minusMaximumValue(num,li) # type: ignore
             result+=ss
         return result
+
+
 # @lc code=end
 
